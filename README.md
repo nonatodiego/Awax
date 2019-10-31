@@ -1,5 +1,5 @@
 # Awax
-<h1>Página simples de um site empresarial </h1>
+Página simples de um site empresarial
 
 <a href="https://awax.netlify.com/">Demo</a>
 
